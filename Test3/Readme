@@ -1,0 +1,5 @@
+Deskripsi:
+menampilkan data beasiswa dan data mahasiswa, aplikasi menggunakan resful API dan framework CodeIgiter
+how to run:
+download dan taruh folder pada htdocs/www pada webserver, kemudian buka browser ketik alamat localhost/rest_server untuk API dan localhost/rest_client untuk client
+kemudian akses pada localhost/rest_cliet dengan alamat http://localhost/res_cliet/inde.php/users, untuk list mahasiswa dan http://localhost/res_cliet/inde.php/list_kampus untuk list beasiswa 
