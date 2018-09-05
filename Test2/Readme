@@ -1,0 +1,5 @@
+Deskripsi:
+menampilkan data harga saham dari perusahaan indonesia terbaru, namun pada program ini hanya dapat mengeluarkan data pada tanggal 31 agustus 2018, karena data yang ada pada API hanya tersedia data tanggal itu
+How to Run:
+download dan taruh folder pada htdocs/www pada webserver, kemudian buka browser ketik alamat localhost/test1
+kemudian masukan ticker code dari perusahaan yang dinginkan.
