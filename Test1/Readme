@@ -1,0 +1,4 @@
+Deskripsi : 
+Program berbasis PHP untuk melakukan perhitungan menjumlahkan kelipatan 4 yang datanya kurang dari 500
+How to run:
+download dan taruh folder pada htdocs/www pada webserver, kemudian buka browser ketik alamat localhost/test1
